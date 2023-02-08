@@ -1,0 +1,15 @@
+/Users/annanorina/Desktop/Seenew/HelloCons/bin/Debug/net6.0/HelloCons
+/Users/annanorina/Desktop/Seenew/HelloCons/bin/Debug/net6.0/HelloCons.deps.json
+/Users/annanorina/Desktop/Seenew/HelloCons/bin/Debug/net6.0/HelloCons.runtimeconfig.json
+/Users/annanorina/Desktop/Seenew/HelloCons/bin/Debug/net6.0/HelloCons.dll
+/Users/annanorina/Desktop/Seenew/HelloCons/bin/Debug/net6.0/HelloCons.pdb
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.csproj.AssemblyReference.cache
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.AssemblyInfoInputs.cache
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.AssemblyInfo.cs
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.csproj.CoreCompileInputs.cache
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.dll
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/refint/HelloCons.dll
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.pdb
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/HelloCons.genruntimeconfig.cache
+/Users/annanorina/Desktop/Seenew/HelloCons/obj/Debug/net6.0/ref/HelloCons.dll
